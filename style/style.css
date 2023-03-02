@@ -1,0 +1,92 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  
+  /*     margin:0 auto; */
+      margin:0 auto;
+      background-image: url("https://c8.alamy.com/comp/2BN6FJX/money-on-a-background-with-dollars-thrown-randomly-2BN6FJX.jpg");
+      
+  }
+  
+  
+  
+  h1{
+  /*     margin:0 auto; */
+      color: #96d35f;
+      margin:0 auto;
+      width:50%;
+  }
+  
+  
+  
+  .instructions{
+  /*     margin:0 auto; */
+      color: white;
+      margin:0 auto;
+  }
+  
+  .card{
+      color: white;
+      background-color: #b1dd8c;
+      margin: 0 auto;
+      text-align: center;
+      width:50%;
+  }
+  
+  .card2{
+      background-color: #b1dd8c;
+      margin: 0 auto;
+      text-align: center;
+      width:50%;
+  }
+  
+  .card3{
+      background-color: #b1dd8c;
+      margin: 0 auto;
+      text-align: center;
+      width:50%;
+  }
+  
+  .card4{
+      background-color: #b1dd8c;
+      margin: 0 auto;
+      text-align: center;
+      width:50%;
+  }
+  
+  .card5{
+      background-color: #b1dd8c;
+      margin: 0 auto;
+      text-align: center;
+      width:50%;
+  }
+  
+  
+  .btn1{
+      margin:0 auto;
+  }
+  
+  .btn2{
+      margin:0 auto;
+  }
+  
+  .slot {
+    display: inline-block;
+  /*   margin: 10px; */
+      margin:0 auto;
+  
+  }
+  
+  #result1 {
+    display: none;
+      margin:0 auto;
+  }
+  
+  .winner {
+    color: green;
+  }
+  
+  .loser {
+    color: red;
+  }
+  
